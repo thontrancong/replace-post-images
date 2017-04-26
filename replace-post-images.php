@@ -4,7 +4,7 @@ defined( 'ABSPATH' ) or die( 'You are so handsome!' );
  * Plugin Name: Replace post images
  * Plugin URI: http://mypluginuri.com/
  * Description: Inside a post, download images from other domain, save its this domain and replace old image with new image.
- * Version: 1.0
+ * Version: 1.1
  * Author: thontc82@gmail.com
  * Author URI: http://admicro.vn
  * License: A "replace-post-images" license name e.g. GPL12
